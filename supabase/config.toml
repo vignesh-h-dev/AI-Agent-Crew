@@ -1,0 +1,13 @@
+project_id = "vpuervtfvlkvuzptypti"
+
+[functions.analyze-problem]
+verify_jwt = false
+
+[functions.multi-ai-compare]
+verify_jwt = false
+
+[functions.evaluate-tool]
+verify_jwt = false
+
+[functions.generate-mockup]
+verify_jwt = false
